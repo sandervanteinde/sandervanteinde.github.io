@@ -1,0 +1,1 @@
+self.webpackChunk([56],{"5Z0u":function(n,t,u){"use strict";u.r(t),u.d(t,"input",function(){return c});const c="...#.#.#\n..#..#..\n#.#.##.#\n###.##..\n#####.##\n#.......\n#..#..##\n...##.##"}});
