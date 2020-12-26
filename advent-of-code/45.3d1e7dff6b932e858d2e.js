@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[45],{"5Z0u":function(n,o,t){"use strict";t.r(o),t.d(o,"input",function(){return u});const u="...#.#.#\n..#..#..\n#.#.##.#\n###.##..\n#####.##\n#.......\n#..#..##\n...##.##"}}]);
